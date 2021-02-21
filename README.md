@@ -1,0 +1,2 @@
+# KDEconfig
+KDE / Plasma scripts
